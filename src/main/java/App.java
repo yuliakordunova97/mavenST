@@ -3,7 +3,7 @@ public class App {
         Cat cat = new Cat();
         Dog dog = new Dog();
 
-        System.out.println("Cat say " + cat.catSay());
-        System.out.println("Dog say " + dog.dogSay());
+        System.out.println("Cat say " + cat.say());
+        System.out.println("Dog say " + dog.say());
     }
 }
